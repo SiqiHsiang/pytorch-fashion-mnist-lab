@@ -28,6 +28,7 @@ dist/
 # Model files and large data
 *.pt
 *.pth
+*.pkl
 *.ckpt
 *.h5
 data/
